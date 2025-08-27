@@ -1,7 +1,6 @@
 [![](https://badgen.net/badge/license/GPL-3.0/green)](#License)
 
 # CITR
-Official Implementation of ACMMM 2025 paper ""
 
 > Pytorch implementation for codes in [CITR: Efficient Long Video Understanding Needs Causal Importance (Accepted by ACM Multimedia 2025)](https://acmmm2025.org/). This work focuses on the efficiency challenge in long video understanding. We proposes the CITR framework for causal importance-based token reduction, achieving reduced latency and effective memory control with minimal performance drop in offline and streaming scenarios.
 
